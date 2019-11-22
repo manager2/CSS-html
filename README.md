@@ -1,6 +1,6 @@
 # CSS-html
-//Excercise how use CSS and html coding together
-<!doctype html>
+Excercise how use CSS and html coding together
+
 <html>
 <head>
 <meta charset="UTF-8">
