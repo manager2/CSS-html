@@ -4,7 +4,7 @@ Excercise how use CSS and html coding together
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Selector Basics</title>
+Selector Basics
 <style>
 p {
 	color: #505050;
